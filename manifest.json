@@ -8,16 +8,16 @@
   "short_name": "genericoctopus.github",
   "start_url": "./",
   "theme_color": "#ffffff",
-  "icons": [{
-    "src": "img/15858-192x192x32.png",
-    "sizes":"192x192",
-    "type":"image/png"
-  },
-  {
-    "src": "img/15858-256x256x32.png",
-    "sizes":"256x256",
-    "type":"image/png"
-  }
-
+  "icons": [
+    {
+      "src": "img/15858-192x192x32.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/15858-256x256x32.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
   ]
 }
