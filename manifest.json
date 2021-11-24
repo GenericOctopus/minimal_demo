@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "genericoctopus.github",
   "orientation": "any",
-  "scope": "/",
+  "scope": "./",
   "short_name": "genericoctopus.github",
-  "start_url": "/",
+  "start_url": "./",
   "theme_color": "#ffffff",
   "icons": [{
     "src": "img/15858-192x192x32.png",
